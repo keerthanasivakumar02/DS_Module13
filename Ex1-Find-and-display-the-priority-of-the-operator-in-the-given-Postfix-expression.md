@@ -15,11 +15,7 @@ Start the program.
 
 ## Program:
 ```
-/*
-Program to find and display the priority of the operator in the given Postfix expression
-Developed by: Arshitha MS
-RegisterNumber: 212223240015
-*/
+
 #include <stdio.h>
 #include<string.h>
 int priority(char x)
